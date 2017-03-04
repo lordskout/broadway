@@ -13,20 +13,27 @@ h1 {
   font-weight: bold;
 }
 
+#proh2 {
+  font-size: 32px;
+  font-weight: bold;
+  }
+
 h2 {
   font-family: helvetica;
   font-size: 23px;
   font-weight: bold;
-  color: white;
 }
-
-#proh1 {
-  font-size: 32px;
-  font-weight: bold;
-  }
 
 .bk {
   font-family: Helvetica;
   color: white;
   background: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.jpg");
+}
+
+.bottom {
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
 }
